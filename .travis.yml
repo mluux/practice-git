@@ -1,3 +1,5 @@
 install: skip
 script: 
-  - test_for_travis.sh
+  - id
+  - pwd
+  - uname -a
