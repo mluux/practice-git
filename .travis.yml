@@ -3,3 +3,4 @@ script:
   - id
   - pwd
   - uname -a
+  - ./test_for_travis.sh
